@@ -1,0 +1,4 @@
+wget==3.2
+wikipedia==1.4.0
+ChatterBot==0.8.6
+selenium==3.141.0
